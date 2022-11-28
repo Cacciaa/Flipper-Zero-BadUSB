@@ -1,4 +1,4 @@
-$url = "WALLPAPER URL HERE"
+$url = "https://preview.redd.it/dglbq7yi8ne61.jpg?auto=webp&s=89491a20a42caefc2924275ba547a8609c065487"
 
 $ext = $url.split(".")[-1]
 
